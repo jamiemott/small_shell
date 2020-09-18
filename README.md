@@ -4,6 +4,6 @@
 
 ## Compile instructions
 
-Make sure that smshell.c and the provided makefile are in the same folder. Compile the small shell program using the following command:
+Make sure that smshell.c and the provided makefile are in the same folder. Compile the small shell program using the following command: make
 
-make
+To run the program after compilation, type: smshell
